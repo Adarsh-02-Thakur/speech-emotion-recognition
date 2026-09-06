@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv312/
+.venv/
+
+# Large speech datasets
+data/
+../data/
+Actor_*/
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Large archives
+*.zip
